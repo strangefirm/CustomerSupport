@@ -1,0 +1,5 @@
+mcp[cli]>=1.9,<2   # autogen-ext 0.7.x is not compatible with mcp 2.x
+autogen-agentchat>=0.7
+autogen-ext[openai,mcp]>=0.7
+streamlit
+python-dotenv

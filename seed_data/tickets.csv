@@ -1,0 +1,101 @@
+email,summary,priority,status,created_at
+leela@example.com,Customer reports Business Laptop on ORD-2019 arrived damaged; refund of 1584.15 needs manual review.,high,open,2026-08-29T06:58:00
+kavya@example.com,Customer asks when Business Laptop SE will be back in stock.,low,in_progress,2026-08-30T07:54:00
+saanvi@example.com,Customer wants to change the delivery address for ORD-2083 before dispatch.,low,in_progress,2026-08-31T13:07:00
+pooja@example.com,Customer wants to change the delivery address for ORD-2041 before dispatch.,low,open,2026-09-02T17:48:00
+sneha@example.com,Package for ORD-2058 marked delivered but customer says it never arrived.,high,resolved,2026-09-03T00:20:00
+harish@example.com,Customer asks when Tablet 8-inch Plus will be back in stock.,low,open,2026-09-03T22:43:00
+rohan@example.com,Customer received the wrong item in ORD-2069; expected Ergonomic Mouse SE.,medium,open,2026-09-05T02:52:00
+dev@example.com,Refund request on ORD-2088 was rejected (outside the 30-day window); customer is disputing it.,medium,open,2026-09-05T09:49:00
+myra@example.com,Customer asks when Power Bank Plus will be back in stock.,low,resolved,2026-09-05T18:47:00
+karthik@example.com,Tracking for ORD-2032 has not updated for several days; please contact the carrier.,medium,open,2026-09-05T22:54:00
+harish@example.com,Customer asks when Tablet 8-inch Plus will be back in stock.,low,in_progress,2026-09-06T15:49:00
+kabir@example.com,Package for ORD-2079 marked delivered but customer says it never arrived.,high,in_progress,2026-09-08T15:34:00
+vihaan@example.com,Refund for ORD-2006 (Wireless Headphones Plus) is above the auto-approval limit; awaiting human approval.,high,open,2026-09-09T06:49:00
+nikhil@example.com,Tracking for ORD-2017 has not updated for several days; please contact the carrier.,medium,resolved,2026-09-10T01:16:00
+arvind@example.com,Refund request on ORD-2070 was rejected (outside the 30-day window); customer is disputing it.,medium,in_progress,2026-09-10T20:45:00
+kavya@example.com,Tracking for ORD-2002 has not updated for several days; please contact the carrier.,medium,resolved,2026-09-10T21:48:00
+arvind@example.com,Refund request on ORD-2035 was rejected (outside the 30-day window); customer is disputing it.,medium,in_progress,2026-09-11T07:35:00
+saanvi@example.com,Customer asks for an invoice copy for ORD-2083.,low,in_progress,2026-09-11T14:25:00
+myra@example.com,Customer asks for an invoice copy for ORD-2097.,low,resolved,2026-09-13T05:50:00
+divya@example.com,Package for ORD-2059 marked delivered but customer says it never arrived.,high,in_progress,2026-09-13T07:37:00
+myra@example.com,Customer reports Power Bank Plus on ORD-2061 arrived damaged; refund of 122.82 needs manual review.,high,resolved,2026-09-13T20:30:00
+lakshmi@example.com,Customer reports Ring Light Plus on ORD-2025 arrived damaged; refund of 235.82 needs manual review.,high,open,2026-09-14T05:57:00
+aarav@example.com,Customer received the wrong item in ORD-2060; expected Kids Smart Watch Mini.,medium,open,2026-09-14T08:36:00
+nisha@example.com,Customer asks when Gaming Headset SE will be back in stock.,low,in_progress,2026-09-14T18:50:00
+leela@example.com,Customer wants to change the delivery address for ORD-2049 before dispatch.,low,open,2026-09-15T08:27:00
+varun@example.com,Refund request on ORD-2007 was rejected (outside the 30-day window); customer is disputing it.,medium,resolved,2026-09-15T12:45:00
+rohan@example.com,Customer wants to change the delivery address for ORD-2037 before dispatch.,low,in_progress,2026-09-16T14:16:00
+aditya@example.com,Customer received the wrong item in ORD-2091; expected E-Reader SE.,medium,resolved,2026-09-17T16:12:00
+tara@example.com,Customer asks for an invoice copy for ORD-2065.,low,in_progress,2026-09-18T04:53:00
+suresh@example.com,Customer wants to change the delivery address for ORD-2075 before dispatch.,low,open,2026-09-18T15:44:00
+ritu@example.com,Package for ORD-2094 marked delivered but customer says it never arrived.,high,in_progress,2026-09-19T03:43:00
+meghna@example.com,Customer asks when E-Reader SE will be back in stock.,low,open,2026-09-19T14:40:00
+pooja@example.com,Customer reports Ergonomic Mouse Pro on ORD-2041 arrived damaged; refund of 87.56 needs manual review.,high,resolved,2026-09-20T20:47:00
+manoj@example.com,Refund request on ORD-2068 was rejected (outside the 30-day window); customer is disputing it.,medium,open,2026-09-21T22:32:00
+diya@example.com,Customer wants to change the delivery address for ORD-2027 before dispatch.,low,resolved,2026-09-22T14:46:00
+sanjay@example.com,Refund request on ORD-2084 was rejected (outside the 30-day window); customer is disputing it.,medium,open,2026-09-23T13:02:00
+rahul@example.com,Customer asks when Wireless Headphones Plus will be back in stock.,low,open,2026-09-23T21:25:00
+rahul@example.com,Customer wants to change the delivery address for ORD-2071 before dispatch.,low,open,2026-09-24T02:18:00
+suresh@example.com,Customer asks for an invoice copy for ORD-2075.,low,open,2026-09-25T10:44:00
+lakshmi@example.com,Customer wants to change the delivery address for ORD-2082 before dispatch.,low,resolved,2026-09-25T15:30:00
+leela@example.com,Package for ORD-2049 marked delivered but customer says it never arrived.,high,resolved,2026-09-26T07:54:00
+suresh@example.com,Refund request on ORD-2034 was rejected (outside the 30-day window); customer is disputing it.,medium,in_progress,2026-09-26T11:29:00
+leela@example.com,Customer says Student Laptop Mini from ORD-2049 stopped working; asked for replacement or refund.,medium,resolved,2026-09-27T17:41:00
+lakshmi@example.com,Customer received the wrong item in ORD-2082; expected Mini Speaker Plus.,medium,resolved,2026-09-29T10:21:00
+vihaan@example.com,Customer reports Mechanical Keyboard SE on ORD-2012 arrived damaged; refund of 62.28 needs manual review.,high,resolved,2026-09-29T13:47:00
+rahul@example.com,Customer says Action Camera Pro from ORD-2095 stopped working; asked for replacement or refund.,medium,resolved,2026-09-30T08:04:00
+meghna@example.com,Customer asks when E-Reader SE will be back in stock.,low,resolved,2026-09-30T19:52:00
+meghna@example.com,Customer reports Gaming Laptop on ORD-2015 arrived damaged; refund of 804.93 needs manual review.,high,resolved,2026-10-01T05:46:00
+harish@example.com,Customer asks when Tablet 8-inch Plus will be back in stock.,low,in_progress,2026-10-01T08:02:00
+harish@example.com,Customer asks for an invoice copy for ORD-2008.,low,open,2026-10-01T10:59:00
+arvind@example.com,Customer says UltraBook 13 Pro from ORD-2009 stopped working; asked for replacement or refund.,medium,in_progress,2026-10-01T16:05:00
+lakshmi@example.com,Customer reports Ergonomic Mouse Plus on ORD-2086 arrived damaged; refund of 36.66 needs manual review.,high,resolved,2026-10-01T20:42:00
+manoj@example.com,Refund request on ORD-2068 was rejected (outside the 30-day window); customer is disputing it.,medium,resolved,2026-10-01T21:16:00
+tara@example.com,Refund for ORD-2051 (Action Camera Pro) is above the auto-approval limit; awaiting human approval.,high,in_progress,2026-10-02T10:59:00
+aarav@example.com,Package for ORD-2031 marked delivered but customer says it never arrived.,high,resolved,2026-10-03T03:38:00
+sanjay@example.com,Customer reports Wireless Mouse Pro on ORD-2084 arrived damaged; refund of 80.48 needs manual review.,high,open,2026-10-03T13:00:00
+aarav@example.com,Customer asks when Kids Smart Watch Mini will be back in stock.,low,in_progress,2026-10-03T18:20:00
+meghna@example.com,Customer reports Compact Keyboard Mini on ORD-2050 arrived damaged; refund of 117.26 needs manual review.,high,open,2026-10-03T22:49:00
+suresh@example.com,Refund for ORD-2075 (Webcam HD Pro) is above the auto-approval limit; awaiting human approval.,high,open,2026-10-05T03:31:00
+ritu@example.com,Refund for ORD-2089 (UltraBook 13 Pro) is above the auto-approval limit; awaiting human approval.,high,in_progress,2026-10-06T00:29:00
+nisha@example.com,Tracking for ORD-2056 has not updated for several days; please contact the carrier.,medium,resolved,2026-10-06T05:46:00
+suresh@example.com,Customer wants to change the delivery address for ORD-2064 before dispatch.,low,resolved,2026-10-06T06:41:00
+arvind@example.com,Tracking for ORD-2035 has not updated for several days; please contact the carrier.,medium,resolved,2026-10-06T19:49:00
+lakshmi@example.com,Customer says Mini Speaker Plus from ORD-2082 stopped working; asked for replacement or refund.,medium,resolved,2026-10-07T14:29:00
+nikhil@example.com,Customer asks for an invoice copy for ORD-2093.,low,resolved,2026-10-07T19:12:00
+sanjay@example.com,Customer wants to change the delivery address for ORD-2092 before dispatch.,low,resolved,2026-10-08T19:59:00
+myra@example.com,Customer reports Tablet 10-inch Plus on ORD-2097 arrived damaged; refund of 505.35 needs manual review.,high,open,2026-10-09T17:43:00
+arvind@example.com,Customer says Kids Smart Watch Mini from ORD-2022 stopped working; asked for replacement or refund.,medium,open,2026-10-10T10:26:00
+aarav@example.com,Tracking for ORD-2031 has not updated for several days; please contact the carrier.,medium,resolved,2026-10-11T14:18:00
+karthik@example.com,Customer reports Wireless Mouse Plus on ORD-2032 arrived damaged; refund of 54.12 needs manual review.,high,open,2026-10-12T10:47:00
+rahul@example.com,Customer reports Action Camera Pro on ORD-2095 arrived damaged; refund of 164.46 needs manual review.,high,in_progress,2026-10-13T08:22:00
+suresh@example.com,Customer asks when Mechanical Keyboard SE will be back in stock.,low,resolved,2026-10-13T18:38:00
+kavya@example.com,Customer wants to change the delivery address for ORD-2018 before dispatch.,low,open,2026-10-14T14:54:00
+lakshmi@example.com,Customer asks when Ergonomic Mouse Plus will be back in stock.,low,open,2026-10-14T15:16:00
+divya@example.com,Refund request on ORD-2059 was rejected (outside the 30-day window); customer is disputing it.,medium,open,2026-10-15T01:47:00
+nikhil@example.com,Customer wants to change the delivery address for ORD-2093 before dispatch.,low,open,2026-10-15T15:21:00
+kavya@example.com,Package for ORD-2038 marked delivered but customer says it never arrived.,high,resolved,2026-10-15T19:56:00
+arvind@example.com,Refund for ORD-2035 (Student Laptop Plus) is above the auto-approval limit; awaiting human approval.,high,open,2026-10-16T12:07:00
+nikhil@example.com,Tracking for ORD-2072 has not updated for several days; please contact the carrier.,medium,resolved,2026-10-17T04:11:00
+nisha@example.com,Tracking for ORD-2042 has not updated for several days; please contact the carrier.,medium,in_progress,2026-10-18T04:02:00
+karthik@example.com,Customer received the wrong item in ORD-2029; expected Webcam HD.,medium,resolved,2026-10-18T10:37:00
+karthik@example.com,Refund for ORD-2032 (Wireless Mouse Plus) is above the auto-approval limit; awaiting human approval.,high,open,2026-10-18T12:50:00
+nisha@example.com,Tracking for ORD-2081 has not updated for several days; please contact the carrier.,medium,open,2026-10-19T01:22:00
+rohan@example.com,Customer wants to change the delivery address for ORD-2037 before dispatch.,low,open,2026-10-19T04:49:00
+manoj@example.com,Customer asks for an invoice copy for ORD-2068.,low,resolved,2026-10-19T09:06:00
+rahul@example.com,Refund for ORD-2052 (Wireless Headphones Pro) is above the auto-approval limit; awaiting human approval.,high,open,2026-10-19T10:15:00
+kabir@example.com,Tracking for ORD-2079 has not updated for several days; please contact the carrier.,medium,open,2026-10-19T10:26:00
+rahul@example.com,Tracking for ORD-2003 has not updated for several days; please contact the carrier.,medium,open,2026-10-21T06:33:00
+nisha@example.com,Customer says Bluetooth Speaker Mini from ORD-2056 stopped working; asked for replacement or refund.,medium,open,2026-10-21T09:26:00
+nikhil@example.com,Customer asks when Wireless Mouse Mini will be back in stock.,low,in_progress,2026-10-22T01:30:00
+tara@example.com,Customer asks for an invoice copy for ORD-2011.,low,resolved,2026-10-22T07:49:00
+karthik@example.com,Package for ORD-2032 marked delivered but customer says it never arrived.,high,resolved,2026-10-22T09:07:00
+arvind@example.com,Customer reports Kids Smart Watch Pro on ORD-2070 arrived damaged; refund of 76.89 needs manual review.,high,resolved,2026-10-23T10:33:00
+suresh@example.com,Refund request on ORD-2034 was rejected (outside the 30-day window); customer is disputing it.,medium,resolved,2026-10-24T04:28:00
+karthik@example.com,Customer wants to change the delivery address for ORD-2029 before dispatch.,low,in_progress,2026-10-24T07:58:00
+varun@example.com,Customer asks when Curved Monitor Pro will be back in stock.,low,resolved,2026-10-25T19:36:00
+ritu@example.com,Package for ORD-2089 marked delivered but customer says it never arrived.,high,in_progress,2026-10-25T22:52:00
+kabir@example.com,Customer asks for an invoice copy for ORD-2079.,low,resolved,2026-10-27T01:01:00
+divya@example.com,Customer received the wrong item in ORD-2059; expected Smart Watch Lite Max.,medium,resolved,2026-10-27T02:14:00
+rahul@example.com,Customer wants to change the delivery address for ORD-2003 before dispatch.,low,open,2026-10-27T02:22:00
